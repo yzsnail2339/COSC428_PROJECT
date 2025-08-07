@@ -67,13 +67,6 @@ The core model is [**U²-Net**](https://doi.org/10.1016/j.patcog.2020.107404), a
 
 ---
 
-### 🖼️ Sample Predictions
-
-Original → Prediction
-![sample\_road\_segmentation](path/to/your/image.png)
-
----
-
 ### 🚧 Limitations
 
 * Model struggles in **nighttime**, **aerial**, or **low-contrast** scenes
