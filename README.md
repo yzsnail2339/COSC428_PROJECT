@@ -1,7 +1,3 @@
-根据你提供的 PDF 内容，我为你的 GitHub 项目撰写了一个结构清晰、专业且简洁的 `README.md` 初稿，内容包括项目简介、模型结构、数据集、训练设置、性能评估、可视化结果和未来计划，适合公开发布：
-
----
-
 ## 🛣️ Drive Road Surface Detection using U²-Net
 
 This project implements a deep learning-based road surface recognition and segmentation method using **U²-Net** with **Residual U-blocks (RSU)**. The system efficiently segments road surfaces from high-resolution images while distinguishing related background objects like vehicles, traffic signs, and vegetation — aiming to support autonomous driving and road infrastructure applications.
